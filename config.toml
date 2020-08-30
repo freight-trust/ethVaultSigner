@@ -1,0 +1,12 @@
+[metadata]
+createdAt = 2019-07-01T12:11:30Z
+description = "Example of a valid Hashicorp based configuration"
+
+[signing]
+type = "hashicorp-signer"
+signing-key-path = "/secret/data/ethsignerKey"
+host = "localhost"
+port = 9001
+auth-file = "/Users/me/project/hashicorp_auth"
+timeout = 500
+tls-known-server-file = "/Users/me/project/knownHashicorpServers"

@@ -1,0 +1,10 @@
+{
+    "name": "ethVaultSigner",
+    "version": "0.1.0",
+    "description": "Ethereum HashiCorp Vault Signer",
+    "main": "createKeyFile.js",
+    "repository": "https://github.com/sambacha/governanceSigner.git",
+    "author": "sam <sam@freighttrust.com>",
+    "license": "Apache-2.0",
+    "private": false
+}
